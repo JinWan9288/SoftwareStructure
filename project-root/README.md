@@ -34,6 +34,7 @@
 ##### 1. 环境准备 (Prerequisites)
 * JDK 17 或更高版本
 * Maven 3.8+
+* Python 3.9+ (用于运行本地架构 PoC 验证)
 * Docker & Docker Compose (用于启动依赖中间件)
 
 ##### 2. 启动基础设施 (Middleware)
